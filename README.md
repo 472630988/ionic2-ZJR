@@ -1,2 +1,0 @@
-# ionic2-ZJR
-JUST A TEST
